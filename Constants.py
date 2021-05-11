@@ -1,0 +1,10 @@
+LINEAL = 10
+DIAGONAL = 14
+NEGRO = (0, 0, 0) #muro
+ROJO = (255, 0, 0) #close
+VERDE = (0, 255, 0) #openlist
+AZUL = (0, 255, 0) #inicio
+NEGRO = (0, 0, 0) #muro
+BLANCO = (255, 255, 255) #background
+GRIS = (128, 128, 128) #grid
+NARANJA = (255, 128,0)
